@@ -1,0 +1,6 @@
+projectKey=GroupProject
+serverUrl=http://localhost:9099
+serverVersion=10.7.0.96327
+dashboardUrl=http://localhost:9099/dashboard?id=GroupProject
+ceTaskId=5ebacde0-63c8-46ef-89fc-a8ced7d93ba1
+ceTaskUrl=http://localhost:9099/api/ce/task?id=5ebacde0-63c8-46ef-89fc-a8ced7d93ba1
