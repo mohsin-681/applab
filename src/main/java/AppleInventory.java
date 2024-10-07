@@ -16,6 +16,7 @@ public class AppleInventory {
         inventory.add(new Main.Apple("Green", 140));
         inventory.add(new Main.Apple("Yellow", 190));
         inventory.add(new Main.Apple("Purple", 299));
+        inventory.add(new Main.Apple("Pink", 300));
 
         System.out.println("inventory is: " + inventory.toString());
 
